@@ -41,7 +41,7 @@ def get_chatbot_response(user_message):
         result = embedding_client.generate([text])
         return np.array(result['results'][0]['embedding']).astype("float32")
 
-    def search_similar_schemes(query_vector, top_k=1):
+    def search_similar_schemes(query_vector, top_k=3):
         D, I = index.search(query_vector.reshape(1, -1), top_k)
         print("schemes: ")
         # print([metadata_list[i] for i in I[0]])
