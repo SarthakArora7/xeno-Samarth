@@ -1,0 +1,322 @@
+[
+  {
+    "title": "Mahadevi Verma Shramik Pustak Kraya Dhan Yojana",
+    "jurisdiction": "Uttar Pradesh",
+    "description": "Launched in 2022 by the Uttar Pradesh government, the Mahadevi Verma Shramik Pustak Kraya Dhan Yojana provides financial aid to daughters of construction workers. It offers a one-time grant to help them purchase books for higher education. This support eases the financial burden and promotes access to learning.",
+    "eligibility": "The worker must be employed in a registered factory or commercial establishment in Uttar Pradesh, earning a monthly salary not exceeding ₹15,000, with at least six months of continuous service. The scheme supports up to two daughters per eligible worker, and women workers themselves can also apply. If both parents are workers, only one can avail the benefit.",
+    "deadline": "Ongoing",
+    "apply_link":" https://skpuplabour.in/",
+    "application_procedure": "Visit https://skpuplabour.in/ and register as a new user under 'Shramik Application' to receive login credentials. After logging in, select the relevant scheme, fill out the form, upload a photo, and submit it. Get the form verified by the educational institution and employer, then upload the verified copy and supporting documents on the portal. Once approved, the scholarship amount is transferred to the beneficiary’s bank account, and status updates are sent via SMS.",
+    "categories": ["Education", "Women Empowerment", "Worker Welfare"]
+  },
+  {
+  "title": "Computer Training Scheme",
+  "jurisdiction": "Uttar Pradesh",
+  "description": "The Uttar Pradesh government offers authorized computer training courses to eligible candidates. This scheme aims to improve computer literacy, enhancing education and employment opportunities. It helps the state government reach unemployed youth and expand their skills.",
+  "eligibility": "Applicants must be Uttar Pradesh residents and unemployed youth who have passed the Intermediate (10+2) exam. The annual income of their parents or guardians should be ₹1,00,000 or less. These criteria ensure support for deserving candidates.",
+  "deadline": "Ongoing",
+  "apply_link": "http://obccomputertraining.upsdc.gov.in",
+  "application_procedure": "Visit http://obccomputertraining.upsdc.gov.in and register by entering your name and mobile number to receive an OTP for verification. Log in with the credentials and complete the application by filling details and uploading documents like income certificate and marks sheet. Print and submit the completed form with enclosures to the District Backward Classes Welfare Officer for processing.",
+  "categories": ["Education", "Skill Development", "Youth Welfare"]
+},
+{
+  "title": "General Pre Matric Scholarship",
+  "jurisdiction": "Uttar Pradesh",
+  "description": "The Social Welfare Department offers scholarships to financially disadvantaged General caste students enrolled in Class 9 or 10. This program helps reduce financial barriers, enabling students to continue secondary education and aim for higher studies. It supports families by easing the cost burden and encouraging academic focus.",
+  "eligibility": "Beneficiaries must be Uttar Pradesh residents belonging to the General category, with parents’ annual income not exceeding ₹2,50,000. Students aged 12 to 20 years as of July 1st are eligible, and all children of the applicant's parents qualify. Recipients cannot hold other scholarships simultaneously, except in certain cases.",
+  "deadline": "Ongoing",
+  "apply_link": "https://scholarship.up.gov.in/",
+  "application_procedure": "Visit https://scholarship.up.gov.in/ and register under the Student section by selecting the appropriate category and course type. After registration, log in with your registration number, mobile number, and password to complete DigiLocker and NPCI verifications. Upload required documents, download the application form, and submit it to your educational institute for processing.",
+  "categories": ["Education", "Scholarship", "Student Welfare"]
+},
+{
+  "title": "Sant Ravidaas Shiksha Protsaahan Yojana",
+  "jurisdiction": "Uttar Pradesh",
+  "description": "This scheme encourages children of registered construction workers to pursue education by providing scholarships and incentives. It supports students from class 9 onwards and offers subsidies for bicycle purchases to facilitate school attendance. The scheme motivates higher and professional education among the beneficiaries.",
+  "eligibility": "The construction worker must be registered with the Board and have at least one year of membership. Children must meet specific age criteria depending on their class and be enrolled in a recognized educational institution. Benefits apply to a maximum of two children per registered worker, with Aadhaar certification required.",
+  "deadline": "Ongoing",
+  "apply_link": "https://skpuplabour.in/",
+  "application_procedure": "Visit https://skpuplabour.in/ to register by providing Aadhaar, district, and mobile number. After registration, log in to select the scheme, fill in applicant and child details, upload documents, and submit the application online for processing. The system will verify and process your request accordingly.",
+  "categories": ["Education", "Worker Welfare", "Scholarships"]
+},
+{
+  "title": "SC/ST Pre Matric Scholarship",
+  "jurisdiction": "Uttar Pradesh",
+  "description": "The Uttar Pradesh Social Welfare Department provides scholarships to financially disadvantaged SC/ST students in Class 9 and 10. This scheme reduces financial barriers, empowering marginalized students to complete secondary education. It promotes educational progress and opens opportunities for further studies.",
+  "eligibility": "Beneficiaries must be Uttar Pradesh residents from Scheduled Caste or Scheduled Tribe categories, with parents’ annual income up to ₹2,50,000 or no income criteria depending on the component. All children of the applicant’s parents qualify, aged between 12 and 20 years. Recipients cannot hold other scholarships simultaneously, except in some cases.",
+  "deadline": "Ongoing",
+  "apply_link": "https://scholarship.up.gov.in/",
+  "application_procedure": "Visit https://scholarship.up.gov.in/, register under the Student section selecting the appropriate category and course. Log in with registration details to complete DigiLocker and NPCI verifications, upload documents, download the form, and submit it to the institute for approval.",
+  "categories": ["Education", "Scholarship", "Social Welfare"]
+},
+{
+  "title": "OBC Pre Matric Scholarship",
+  "jurisdiction": "Uttar Pradesh",
+  "description": "The Uttar Pradesh Social Welfare Department offers scholarships to financially disadvantaged OBC students in Class 9 and 10. This scheme helps reduce financial barriers and encourages the completion of secondary education. It supports students from marginalized communities to pursue further studies.",
+  "eligibility": "Applicants must be residents of Uttar Pradesh belonging to the OBC category, with parents’ annual income not exceeding ₹2,00,000. All children of the applicant’s parents are eligible, aged between 12 and 20 years. Students cannot receive other scholarships simultaneously except in some cases.",
+  "deadline": "Ongoing",
+  "apply_link": "https://scholarship.up.gov.in/",
+  "application_procedure": "Visit https://scholarship.up.gov.in/, register under the Student section selecting the OBC category. Log in with registration credentials to complete DigiLocker and NPCI verifications, upload required documents, download the form, and submit it to the institute for approval.",
+  "categories": ["Education", "Scholarship", "Social Welfare"]
+},
+{
+  "title": "Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP)",
+  "jurisdiction": "Central Government",
+  "description": "This scholarship by the Ministry of Education provides financial assistance to meritorious students from low-income families pursuing higher education. It supports up to 82,000 fresh scholarships annually for graduate, postgraduate, and professional courses based on Class 12 board exam results.",
+  "eligibility": "Applicants must be above the 80th percentile in Class 12 exams, enrolled in recognized degree courses, with family income not exceeding ₹4,50,000 per annum. Renewal requires at least 50% marks and 75% attendance annually. Students must have a bank account in their name.",
+  "deadline": "Refer National Scholarships Portal for timelines",
+  "apply_link": "https://scholarships.gov.in/",
+  "application_procedure": "Register and apply via the National Scholarships Portal (https://scholarships.gov.in/). Verify identity using DigiLocker and upload required documents. After final submission, track payment status via the PFMS portal using Aadhaar, bank account, or application ID.",
+  "categories": ["Education", "Scholarship", "Higher Education"]
+},
+{
+  "title": "Chief Minister's Building and Other Construction Workers Urban Housing Scheme (MPBOCWWB)",
+  "jurisdiction": "Madhya Pradesh",
+  "description": "The scheme provides ₹1,00,000 in financial assistance to registered urban construction workers in Madhya Pradesh for housing, supported by both Central and State Government grants. It also extends benefits to those eligible under the Pradhan Mantri Awas Yojana.",
+  "eligibility": "Applicant must be a resident of Madhya Pradesh, aged between 18 and 60, and engaged in construction work for at least 90 days in the previous 12 months. Must have valid registration under the MPBOCWWB Act, renewed annually. Newly registered workers are eligible after 1 year.",
+  "deadline": "Not specified. Check official website for updates.",
+  "apply_link": "https://shramsewa.mp.gov.in/",
+  "application_procedure": "To register, visit the official Shram Seva Portal (https://shramsewa.mp.gov.in/). Click on 'Registration of Construction Worker' and choose 'Apply online for registration as a beneficiary'. Enter your Composite Member ID and Samagra Family ID to fetch details. Complete the application, upload necessary documents, and pay the application fee online. Upon submission, you’ll receive a registration number.",
+  "categories": ["Housing", "Construction Workers", "Urban Development"]
+},
+{
+  "title": "Distribution of Horticulture Kit to Urban and Rural Areas",
+  "jurisdiction": "Puducherry (Union Territory)",
+  "description": "This scheme by the Department of Agriculture and Farmer's Welfare, Puducherry, provides horticulture kits worth ₹3,000 to eligible growers in both rural and urban areas during Aadipattam/Thaipattam seasons, facilitated through the Additional Director of Agriculture (Horticulture).",
+  "eligibility": "All horticulture growers residing in urban and rural areas of Puducherry are eligible.",
+  "deadline": "Not specified. Applicants should visit the local office during official working hours for seasonal distribution schedules.",
+  "apply_link": "https://agri.py.gov.in/",
+  "application_procedure": "Visit the nearest Uzhavar Udhaviyagam (Farmers' Help Centre) or Office of the Additional Director of Agriculture (Horticulture) during working hours. Request the hard copy of the application form. Fill in all required fields, attach a passport-sized photograph and self-attested documents. Submit the form to the concerned authority. A unique application number will be assigned as acknowledgment and for future reference.",
+  "categories": ["Agriculture", "Horticulture", "Rural Development"]
+},
+{
+  "title": "Gitanjali Housing Scheme, West Bengal",
+  "jurisdiction": "West Bengal",
+  "description": "The Gitanjali Housing Scheme aims to provide free housing to economically weaker sections in rural and non-Municipal urban areas of West Bengal. It is implemented in coordination with multiple government departments, targeting poor, homeless citizens and disaster-affected individuals. The scheme includes provisions for both single- and multi-storied houses depending on land and area type, with financial support ranging from ₹1.23 lakh to ₹3 lakh.",
+  "eligibility": "Residents of West Bengal with a monthly family income of ₹6,000 or less; priority given to BPL-listed families, homeless citizens, disaster-affected persons, and those impacted by government projects.",
+  "deadline": "No fixed deadline; applicants should contact local BDO or SDO offices for availability.",
+  "apply_link": "https://wbhousing.gov.in/pages/display/399-gitanjali-housing-scheme",
+  "application_procedure": "The application is primarily offline. Eligible individuals must visit the local BDO or SDO office. If online application becomes available, applicants should visit the official portal, select 'Gitanjali Awas Yojana', fill out the form, attach necessary documents, and submit. Upon verification, housing funds will be disbursed in two installments directly to the beneficiary's bank account.",
+  "categories": ["Housing", "Disaster Relief", "Urban & Rural Development"]
+},
+{
+  "title": "Fair Recreational Activity and Non-Competitive Involvement in Sports Urban Connect Scheme (F.R.A.N.C.I.S Urban Connect Scheme)",
+  "jurisdiction": "Goa",
+  "description": "Launched in 2013 by the Department of Urban Development, Government of Goa, the F.R.A.N.C.I.S Urban Connect Scheme aims to provide safe recreational play areas in urban communities. It supports municipal bodies, educational institutions, sports clubs, and registered housing societies by assisting with the development of sports and recreation infrastructure. The scheme is implemented under the Integrated Development of Major Towns Scheme (IDMT) by the Goa State Urban Development Agency (GSUDA).",
+  "eligibility": "Entities owning land of at least 2,000 sq. meters within Municipal jurisdiction or peripheral Panchayat areas: local municipal bodies, schools, colleges, registered sports clubs, registered housing societies, and other physical fitness-promoting registered bodies.",
+  "deadline": "No specific deadline; apply through GSUDA when ready.",
+  "apply_link": "https://gsuda.goa.gov.in/",
+  "application_procedure": "Step 1: Submit Annexure 1 application form to Goa State Urban Development Agency with supporting documents and project details. Step 2: Application is scrutinized by a committee. Step 3: If approved, the applicant signs an MOU with GSUDA. Step 4: GSUDA handles design, development, and transfer of facilities. Step 5: Beneficiary is responsible for ongoing maintenance, with periodic impact reviews conducted by the agency.",
+  "categories": ["Sports & Recreation", "Urban Development", "Community Infrastructure"]
+},
+{
+  "title": "INDIRAMMA Widow Pension (Urban)",
+  "jurisdiction": "Andhra Pradesh",
+  "description": "Launched in 2006–07 by the Department of Rural Development, Government of Andhra Pradesh, the INDIRAMMA Widow Pension (Urban) scheme provides monthly financial assistance to widows from Below Poverty Line (BPL) families residing in urban areas of Andhra Pradesh. The pension aims to support widows not covered under any other pension scheme, ensuring basic financial security through direct disbursement by Bill Collectors.",
+  "eligibility": "Widows residing in urban areas of Andhra Pradesh, from BPL families, and not covered under any other pension scheme. Identified by Ward Sabhas and approved by the Municipal Commissioner.",
+  "deadline": "No formal deadline. Applications are accepted based on local Ward Sabha schedules and allocation.",
+  "apply_link": "https://nsp.apcfss.in/",
+  "application_procedure": "Step 1: Eligible individuals are identified by the Ward Sabha. A ward-wise register is prepared and maintained by the Bill Collector. Step 2: The Ward Sabha passes a resolution and submits it to the Municipal Commissioner, who verifies eligibility and sanctions pensions. Step 3: The Project Director (DRDA) transfers funds to the Municipal Commissioner, who issues cheques to the Bill Collector. The Bill Collector then disburses the pensions on the first day of every month.",
+  "categories": ["Women Welfare", "Pension Scheme", "Urban Development"]
+},
+{
+  "title": "Housing Assistance Scheme (UKBOCWWB)",
+  "jurisdiction": "Uttarakhand",
+  "description": "The Housing Assistance Scheme, implemented by the Uttarakhand Building and Other Construction Workers’ Welfare Board (UKBOCWWB), provides an advance loan to registered construction workers in Uttarakhand for purchasing or constructing a house. Applicants must be long-term members of the welfare fund and have sufficient remaining service years before retirement.",
+  "eligibility": "Residents of Uttarakhand who are registered construction workers under UKBOCWWB, have been fund members for at least 5 years, and have at least 15 years remaining before superannuation. Age should be between 18 and 60 years and must have worked at least 90 days in the past year.",
+  "deadline": "Applications are open year-round. No specific deadline is mentioned.",
+  "apply_link": "https://ukbocw.uk.gov.in/DynamicPages/LabourSchemeSearch.aspx",
+  "application_procedure": "Step 1: Visit the nearest Shram Suvidha Kendra with relevant documents. Step 2: Submit the application form to receive an Application Number. Step 3: Track application status on the official website. For new registrations, visit Jan Seva Kendra/Shramik Suvidha Kendra with documents. Registration is valid for 3 years and renewable for ₹100 every 3 years.",
+  "categories": ["Housing", "Construction Workers", "Welfare Schemes"]
+},
+{
+  "title": "Housing Subsidy Scheme (GBOCWWB)",
+  "jurisdiction": "Gujarat",
+  "description": "The Housing Subsidy Scheme, launched in 2021-22 by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB), provides financial assistance to registered construction workers in Gujarat for building their own houses. The scheme aims to offer financial relief and ensure social stability through housing subsidies.",
+  "eligibility": "Registered construction workers with GBOCWWB for at least 2 years. Applicant must not own a house (self or jointly with spouse) and should have documentation dated after 29/06/2020. Application must be filed within one year of house purchase documentation. Loan for the house must not exceed ₹15 lakhs with a tenure of 10+ years.",
+  "deadline": "Application must be submitted within one year from the date on the house purchase document.",
+  "apply_link": "https://sanman.gujarat.gov.in/",
+  "application_procedure": "Step 1: Register for E-Nirman Card at https://enirmanbocw.gujarat.gov.in/. Step 2: Register on Sanman Portal using Aadhaar and E-Nirman Card. Step 3: Select the scheme, fill out the application form, upload documents, and submit. Step 4: Submit loan statements annually to receive assistance over five years. Application status can be tracked using the Application Number and Date of Birth on the e-Nirman portal.",
+  "categories": ["Housing", "Construction Workers", "Welfare Schemes"]
+},
+{
+  "title": "Scheme of Grant-in-Aid to Voluntary and other Organizations Working for Scheduled Castes",
+  "jurisdiction": "Central",
+  "description": "This scheme by the Ministry of Social Justice and Empowerment aims to support voluntary and other legally recognized organizations to deliver developmental services like education, health, and vocational training in Scheduled Caste-dominated areas. It also supports innovative socio-economic upliftment and livelihood activities for Scheduled Castes.",
+  "eligibility": "Organizations must be legally registered under relevant laws (e.g., Societies Registration Act, Indian Trust Act, Section 25 Company Act) and have operated a bank account in their name for at least 3 years. At least 60% of beneficiaries must be from Scheduled Castes. Exceptions to the 3-year rule can be made by the Secretary of the Ministry in special cases.",
+  "deadline": "Applications should be submitted preferably in the first quarter of the financial year. State Committees must forward recommendations to the Ministry by April 30th.",
+  "apply_link": "https://socialjustice.gov.in/schemes/",
+  "application_procedure": "Step 1: Fill the prescribed Application-cum-Monitoring Form. Step 2: Submit to the State/UT Social Welfare or SC Development Department. Step 3: State-level verification and review by State Grant-in-Aid Committee. Step 4: Recommendations sent to Ministry by April 30. Step 5: Ministry may conduct independent inspection if State delay occurs. Step 6: Ministry evaluates and processes only State-recommended applications. Step 7: Required documents must be submitted with State recommendations. Step 8: Sanction orders issued and funds allocated based on proposal acceptance.",
+  "categories": ["Scheduled Castes", "Education", "Financial Aid"]
+},
+{
+  "title": "Employees' Pension Scheme",
+  "jurisdiction": "Central",
+  "description": "A pension scheme under the Employees' Provident Fund Organisation (EPFO) providing superannuation, early, and family pensions to eligible members who have contributed to the Employees' Pension Fund.",
+  "eligibility": "Applicants must be members of the Employees' Provident Fund Scheme with at least 10 years of eligible service and contributions to the Pension Fund. Monthly pay should not exceed ₹15,000 (unless contributing extra). For family pension, applicants must be spouse or child of a deceased eligible member.",
+  "application_procedure": "Step 1: Activate UAN and complete KYC via EPFO Unified Portal. Step 2: Login to EPFO portal and fill Pension claim (Form 10D). Step 3: Upload required documents. Step 4: Submit application with OTP verification.",
+  "categories": ["Superannuation Pension", "Early Pension", "Family Pension"],
+  "apply_link": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/",
+  "deadline": "Ongoing scheme with no fixed application deadline."
+}, 
+{
+  "title": "Financial Support Scheme",
+  "jurisdiction": "Central",
+  "description": "Implemented by Delhi University, this scheme provides equity and access to quality education for economically weak students by offering financial support including fee waivers on all components except examination and hostel fees.",
+  "eligibility": "The applicant should be a bonafide student enrolled in any UG/PG degree program at a Department, Institution, or Centre of the University of Delhi. The family income of the student must be less than ₹8,00,000 per annum.",
+  "deadline": "Ongoing scheme with no fixed application deadline.",
+  "apply_link": "https://dsw.du.ac.in/",
+  "application_procedure": "Step 1: Eligible students fill the online Application Form available on the Dean Students’ Welfare Office website. Step 2: Submit the attested and recommended hard copy of the application form with all documents to the DSW office after approval from the Head/Director of the concerned Department/Centre/Institute. Step 3: Check the DSW website for schedule announcements regarding submission of application forms.",
+  "categories": ["Education", "Financial Aid", "University Support"]
+},
+{
+  "title": "Maulana Azad National Fellowship For Minority Students",
+  "jurisdiction": "Central",
+  "description": "Launched in 2009 by the Ministry of Minority Affairs, this fellowship provides financial assistance for up to five years to students from notified minority communities to pursue M.Phil and Ph.D. programs.",
+  "eligibility": "Applicants must belong to minority communities (Buddhist, Christian, Jain, Muslim, Sikh, or Zoroastrian (Parsi)). Must qualify UGC-NET or Joint CSIR-UGC NET examination (both JRF and Assistant Professor eligibility). Applicants should not have previously availed any fellowship under this scheme. Employees of universities or government bodies are not eligible, even if on study leave. For candidates already admitted to M.Phil/Ph.D, the fellowship offer validity is three months from the award letter date.",
+  "deadline": "Not specified; applicants should keep track of UGC-NET/CSIR-UGC test schedules.",
+  "apply_link": "https://nta.ac.in/ (UGC-NET), https://csirhrdg.res.in/ (CSIR-UGC NET)",
+  "application_procedure": "Step 1: Appear and qualify for UGC-NET or Joint CSIR-UGC NET examination through official portals. Step 2: Apply for the fellowship after qualifying the exam as per the Ministry of Minority Affairs guidelines. Step 3: For candidates already admitted to M.Phil/Ph.D., apply within three months of award letter issuance.",
+  "categories": ["Minority Welfare", "Education", "Financial Aid"]
+},
+{
+  "title": "RMEWF-Financial Assistance For Ex-Servicemen In Penury",
+  "jurisdiction": "Central",
+  "description": "This scheme provides financial assistance to non-pensioner Ex-Servicemen up to the rank of Havildar/equivalent and their widows living in extreme poverty, aiming to offer relief to destitute beneficiaries.",
+  "eligibility": "Must be a non-pensioner Ex-Serviceman or widow. Rank should be Havildar/equivalent or below from Navy/Air Force. Applicant must be 65 years or older as of April 1 of the financial year, except widows of deceased ESMs already receiving the grant, for whom age criteria is waived.",
+  "deadline": "Applications accepted annually from April 1 to March 1.",
+  "apply_link": "https://164.100.158.73/registration.htm",
+  "application_procedure": "Step 1: Eligible applicants apply online between April 1 and March 1 and upload scanned supporting documents. Step 2: On successful submission, an application number is generated for future reference. Step 3: Verification of documents and certification by Zonal Social Welfare Officer (ZSWO) confirming income/pension status and assistance from other sources. Step 4: Upon verification, ZSWO recommends the application for financial assistance.",
+  "categories": ["Ex-Servicemen Welfare", "Financial Aid", "Pension Support"]
+},
+{
+  "title": "Infrastructure and Technology Support",
+  "jurisdiction": "Central",
+  "description": "This sub-scheme aims to develop world-class infrastructure for handicraft production to enhance product quality, reduce costs, and help artisans compete globally. It includes components like Urban Haat, Emporia, Marketing Hubs, Museums, Resource Centres, Common Facility Centres, Raw Material Depots, and Crafts Villages to provide permanent marketing infrastructure in towns and metropolitan cities.",
+  "eligibility": "Eligible implementing agencies include local statutory bodies, Apex Cooperative Societies, National level Apex Societies registered under Society/Trust Acts, and Producer Companies supported by the Office of the Development Commissioner (Handicrafts). Agencies must have a minimum audited annual turnover of ₹1.5 crore for the last three consecutive years, except Central/State government agencies.",
+  "deadline": "Proposals must be submitted within the timeline specified by the Handicraft Service Center; late or incomplete submissions will not be entertained.",
+  "apply_link": "https://handicrafts.gov.in",
+  "application_procedure": "Step 1: Prepare proposal in the prescribed proforma with all self-attested supporting documents. Step 2: Submit hard copies to the concerned Handicraft Service Center, Office of the Development Commissioner (Handicrafts) within the deadline. Step 3: Only complete and timely recommended proposals will be considered.",
+  "categories": ["Financial Aid", "Infrastructure Development", "Technology Support"]
+},
+{
+  "title": "Women Scientist Scheme-C",
+  "jurisdiction": "Central",
+  "description": "A Ministry of Science & Technology scheme for female candidates with a career break, offering 1-year training in Intellectual Property Rights (IPRs), including patent search, drafting, filing, trademarks, trade secrets, and copyright. The scheme is implemented by the Patent Facilitating Centre of TIFAC, aiming to enable women to address societal challenges through science and technology interventions.",
+  "eligibility": "Applicant must be female, aged between 27 and 45 years, with a career break. Minimum qualification required is Master of Science or Bachelor’s degree in Engineering/Technology or equivalent. Proficiency in handling computerized databases and report preparation is desirable.",
+  "deadline": "Not specified. Candidates should keep required documents ready before applying online.",
+  "apply_link": "http://115.112.95.114/wosc/online/Control.do?_mXpa=100&54003&$sa",
+  "application_procedure": "Step 1: Register and create login credentials on the application portal: http://115.112.95.114/wosc/online/Control.do?_mXpa=100&54003&$sa. Step 2: Fill the application form by providing basic details, qualifications, employment history, publications, photo, and signature. Step 3: Select one Coordination Centre for training and Examination Centre as per preference. Step 4: Submit the application online.",
+  "categories": ["Women Empowerment", "Science & Technology", "Training"]
+},
+{
+  "title": "New Swarnima Scheme For Women",
+  "jurisdiction": "Central",
+  "description": "A term loan scheme by the Ministry of Social Justice and Empowerment for women entrepreneurs from backward classes to obtain a loan of up to ₹2,00,000 at 5% per annum, providing social and financial security. The scheme is introduced by NBCFDC and implemented by State Channelising Agencies (SCAs) as nodal agencies.",
+  "eligibility": "Applicant must be female, aged between 18 and 55 years, an entrepreneur, and have a total annual family income of less than ₹3 lakh per annum.",
+  "deadline": "Not specified.",
+  "apply_link": "https://nsfdc.nic.in/channel-patrners/scas",
+  "application_procedure": "Step 1: Visit the nearest SCA office and apply using the prescribed form for the Swarnima Scheme for Women. Find your nearest SCA office at https://nsfdc.nic.in/channel-patrners/scas. Step 2: Fill in the application form with necessary details including vocation and training needs. Step 3: Submit the application form and required documents to the SCA office. The loan will be sanctioned after application review by the SCA.",
+  "categories": ["Women Empowerment", "Financial Aid", "Entrepreneurship"]
+},
+{
+  "title": "Post Doctoral Fellowship To Women Candidates",
+  "jurisdiction": "Central",
+  "description": "The UGC Post Doctoral Fellowship for Women aims to support unemployed Ph.D. holders in carrying out advanced studies and research. The scheme is open to women scholars who meet eligibility criteria and provides support for up to 5 years. 100 slots are available annually under this scheme.",
+  "eligibility": "The candidate must be unemployed and have been awarded a Ph.D. (provisional certificate acceptable). The maximum age is 55 years (relaxation of 5 years for SC/ST/OBC/PWD). Minimum 55% marks in UG and 60% in PG for general category (50% UG and 55% PG for reserved categories). A No Objection Certificate from the proposed research centre is required. Transgender candidates are eligible. Reservations follow GoI norms.",
+  "deadline": "Applications are invited once per year; deadlines are notified via advertisements and UGC website.",
+  "apply_link": "https://www.ugc.ac.in",
+  "application_procedure": "Applications are invited online once a year through an advertisement in newspapers and employment news. A short notification is also posted on https://www.ugc.ac.in. After submission, applications are scrutinized by a screening committee, and shortlisted candidates are called for an interview. Selected awardees must report to a designated Canara Bank branch with the Award Letter, Joining Report, and supporting documents to activate their fellowship. Regular submissions of continuation certificates, progress reports, contingency accounts, and other prescribed annexures are required.",
+  "categories": ["Women", "Research", "Financial Aid"]
+},
+{
+  "title": "Internship Programme for Women Students / Scholars / Social Activists / Teachers",
+  "jurisdiction": "Central",
+  "description": "This Internship Programme by the Ministry of Women and Child Development aims to provide a platform for women students, scholars, social activists, and teachers—especially from non-tier-I cities and rural India—to participate in policy deliberation and implementation of schemes concerning women and children. It encourages research, interaction, and efficiency in governance.",
+  "eligibility": "The applicant must be a woman student, scholar, social activist, or teacher from a non-tier-I city or rural area. She must be associated with or enrolled in any academic or non-academic institution. The applicant should be between 21 to 40 years of age.",
+  "deadline": "Applications are accepted on a rolling basis depending on the Ministry’s ongoing projects and availability of positions.",
+  "apply_link": "https://wcd.nic.in",
+  "application_procedure": "Step 1: Visit the official portal - https://wcd.nic.in. Click on the 'Register' button from the top menu. Enter your Name, Date of Birth, Gender, State, District, City, Email, Mobile Number, Password, and Captcha, then click Register. \nStep 2: Log in using your email and password. Upload a recent passport-sized photograph by updating your profile. \nStep 3: Fill out and submit the application form online.",
+  "categories": ["Women", "Education", "Internship"]
+},
+{
+  "title": "Mahila Samriddhi Yojana",
+  "jurisdiction": "Central",
+  "description": "Mahila Samriddhi Yojana (MSY), launched under the National Backward Classes Finance and Development Corporation (NBCFDC) by the Ministry of Social Justice and Empowerment, is aimed at supporting women entrepreneurs from economically weaker sections and backward communities. The scheme provides group-based training in crafts, forms Self-Help Groups (SHGs), and offers micro-credit assistance to help women engage in income-generating activities.",
+  "eligibility": "Applicant must be a woman between 18 to 55 years of age from a low-income family (annual family income less than ₹3 lakh) or belong to SC/ST/OBC categories as notified by the Central/State Government. The scheme is for women looking to start a business or other income-generating ventures.",
+  "deadline": "Rolling application based on channel partner availability and ongoing implementation.",
+  "apply_link": "https://nsfdc.nic.in",
+  "application_procedure": "Step 1: Visit the official portal - https://nsfdc.nic.in or your respective State Government portal. \nStep 2: Download and fill the Mahila Samriddhi Yojana application form with necessary personal and business details.\nStep 3: Submit the form along with supporting documents to the District Office of State Channelizing Agencies (SCAs), Regional Rural Banks, Public Sector Banks, or NBFC-MFIs that have signed MoUs with NSFDC.\nStep 4: Upon verification and approval, the loan is sanctioned and disbursed through the respective financial institution. Repayment terms will be communicated by the implementing agency.",
+  "categories": ["Women", "Entrepreneurship", "Loans"]
+},
+{
+  "title": "Scheme for Adolescent Girls (SAG)",
+  "jurisdiction": "Central",
+  "description": "A support scheme by the Ministry of Women & Child Development for out-of-school adolescent girls (11–14 years) to enable their self-development, empowerment, and improvement in nutritional, health, and hygiene status. The scheme aims to assist them in transitioning back to formal schooling or skill training and to enhance their life skills while providing access to public services.",
+  "eligibility": "Applicant must be a FEMALE between 11 and 14 years of age and out of school. Identification is done by Anganwadi Workers through a house-to-house survey under the ICDS scheme.",
+  "deadline": "Ongoing, based on identification through baseline survey by AWWs.",
+  "apply_link": "https://wcd.nic.in/schemes/scheme-adolescent-girls-sag",
+  "application_procedure": "Step 1: The State/UT conducts a baseline survey through Anganwadi Workers (AWWs) who identify out-of-school girls aged 11 to 14 by visiting households within their AWC coverage area.\nStep 2: Eligible girls are enrolled through the Anganwadi Centre (AWC).\nStep 3: Benefits such as nutrition, life skills, and vocational training are provided through the Anganwadi platform under the Umbrella ICDS Scheme.\nPortal Link: https://wcd.nic.in/schemes/scheme-adolescent-girls-sag",
+  "categories": ["Women", "Education", "Health"]
+},
+{
+  "title": "National Fellowship for Students with Disabilities (NFPwD)",
+  "jurisdiction": "Central",
+  "description": "The National Fellowship for Students with Disabilities (NFPwD) is a fellowship scheme launched by the Government of India to provide financial assistance to students with at least 40% disability pursuing M.Phil. and Ph.D. degrees in UGC-recognized universities or institutions. The scheme aims to promote higher education among students with disabilities and is implemented by the University Grants Commission (UGC) on behalf of the Department of Empowerment of Persons with Disabilities.",
+  "eligibility": "Applicants must have at least 40% disability with a valid certificate, must be admitted to an M.Phil./Ph.D. program in a UGC-recognized institution, and must have a good academic record.",
+  "deadline": "Varies by academic cycle; refer to the UGC website for current deadlines.",
+  "apply_link": "https://www.ugc.gov.in",
+  "application_procedure": "Step 1: Visit the UGC portal: https://www.ugc.gov.in.\nStep 2: Go to 'Scholarships/Fellowships' section and click 'View All.'\nStep 3: Locate 'National Fellowship for Persons with Disabilities' and click 'See Detailed Information.'\nStep 4: Click 'Apply for Fresh Registration (Click Here).'\nStep 5: Fill in the required information, complete the registration, and upload the necessary documents.\nStep 6: Submit the application online.",
+  "categories": ["Education", "Fellowship", "Disability"]
+},
+{
+  "title": "Rashtriya Arogya Nidhi - Health Minister’s Cancer Patient Fund (HMCPF)",
+  "jurisdiction": "Central",
+  "description": "The Health Minister’s Cancer Patient Fund (HMCPF), under the Rashtriya Arogya Nidhi (RAN), was launched in 2009 to provide financial assistance to poor patients below the poverty line suffering from cancer. Treatment support is provided exclusively at 27 designated Regional Cancer Centres (RCCs) across India, with a revolving fund of up to ₹50 lakhs allocated at each RCC.",
+  "eligibility": "The patient must be living below the poverty line and suffering from cancer. Treatment must be undertaken at one of the 27 Regional Cancer Centres. Central/State Government and PSU employees are not eligible. Assistance will not be granted where cancer treatment is available free of cost.",
+  "deadline": "Applications are accepted year-round based on fund availability.",
+  "apply_link": "https://main.mohfw.gov.in/newshmcp",
+  "application_procedure": "Step 1: Download the application form from the Ministry of Health and Family Welfare website or refer to Page No. 10–12 of the HMCPF guidelines.\nStep 2: Fill the form completely and correctly.\nStep 3: Get the form signed and stamped by the treating doctor or Head of Department (HOD) and countersigned by the Medical Superintendent of the Government hospital.\nStep 4: Submit the completed form along with supporting documents to the concerned Government hospital.",
+  "categories": ["Health", "Financial Assistance", "Cancer Care"]
+},
+{
+  "title": "Niramaya Health Insurance Scheme",
+  "jurisdiction": "Central",
+  "description": "The Niramaya Health Insurance Scheme, launched by the Department of Empowerment of Persons with Disabilities under the Ministry of Social Justice & Empowerment, provides affordable health insurance coverage up to ₹1,00,000 for individuals with Autism, Cerebral Palsy, Mental Retardation, and Multiple Disabilities. The policy is valid until March 31st of the financial year and must be renewed annually.",
+  "eligibility": "Any person with at least one of the disabilities listed under the National Trust Act, 1999, and possessing a valid disability certificate is eligible for the scheme.",
+  "deadline": "The scheme must be renewed annually before March 31st. Renewal is recommended at least 3 months prior to expiry.",
+  "apply_link": "https://www.rakshatpa.com/WebPortal",
+  "application_procedure": "Step 01: Download the claim form from https://www.rakshatpa.com/WebPortal under the 'Downloads' section.\nStep 02: Fill out the claim form and attach all necessary supporting documents such as medical bills, prescriptions, hospitalization reports, and discharge cards.\nStep 03: Submit the complete application to the regional centers of the insurance provider.\nStep 04: The insurance provider will review the submission and transfer the approved claim to the beneficiary's bank account as per IRDA guidelines.",
+  "categories": ["Health", "Disability Support", "Insurance"]
+},
+{
+  "title": "Nikshay Poshan Yojana",
+  "jurisdiction": "Central",
+  "description": "Launched by the Ministry of Health and Family Welfare in 2018, Nikshay Poshan Yojana provides ₹1,000 per month to each notified tuberculosis (TB) patient for nutritional support. The scheme aims to improve TB treatment outcomes by combating malnutrition during the course of treatment.",
+  "eligibility": "All TB patients notified on or after April 1, 2018, and registered on the Nikshay portal are eligible. This includes both new and ongoing TB patients. A valid Aadhaar-linked savings bank account must be submitted.",
+  "deadline": "No specific deadline. Patients are enrolled as they are notified and registered for treatment.",
+  "apply_link": "https://www.nikshay.in",
+  "application_procedure": "Step 1: TB patients must notify their case and register on the Nikshay portal (https://www.nikshay.in) via their TB health provider.\n\nStep 2: Submit Aadhaar-linked savings bank account details to the TB health staff along with supporting documents like Aadhaar card, passbook, cancelled cheque, or bank statement. If the patient doesn’t have a bank account, open one or nominate a family member’s account with consent.\n\nStep 3: The TB health staff enters the bank details into Nikshay. The account must be unique.\n\nStep 4: Nikshay sends the bank details to PFMS (Public Financial Management System) for validation.\n\nStep 5: If validated, a PFMS Beneficiary ID is generated and the patient status is updated to “Validated”. If rejected, the patient receives an SMS and must correct the bank details through the TB health staff.",
+  "categories": ["Health", "Financial Assistance", "Nutrition"]
+},
+{
+  "title": "Delhi Arogya Nidhi (DAN)",
+  "jurisdiction": "Delhi",
+  "description": "Delhi Arogya Nidhi (DAN) provides financial assistance up to ₹1.5 lakhs to needy patients holding National Food Security Cards for treatment of diseases in Government hospitals in Delhi.",
+  "eligibility": "Applicant must have a National Food Security Card. The patient must be a resident of Delhi with domicile proof of continuous residence in Delhi for the last 3 years prior to application. Treatment should be undertaken at a Government Hospital in Delhi.",
+  "deadline": "No specific deadline mentioned.",
+  "apply_link": "https://health.delhigovt.nic.in", 
+  "application_procedure": "Step 1: Visit the official website to download the Application Form for Financial Aid.\nStep 2: Fill out the form with all requisite details.\nStep 3: Attach photocopies of all required documents with the application; originals must be brought during submission for verification.\nStep 4: Submit an undertaking for signature verification as per the application form.\nStep 5: Submit the completed application at the Patient Welfare Cell, Directorate of Health Services, 6th Floor, F-17, Karkardooma (Near Karkardooma Court), Delhi-110032.",
+  "categories": ["Health", "Financial Assistance", "Government Hospital"]
+},
+{
+  "title": "Full Medical Checkup Assistance Scheme - Gujarat Labour Welfare Board",
+  "jurisdiction": "Gujarat",
+  "description": "The scheme conducts health check-ups for male Shram Yogis above 45 years and female Shram Yogis above 35 years working in the organized sector of Gujarat. Eligible workers must have had their Labour Welfare Fund paid regularly by their organization/unit for the last one year. The benefit is given once a year.",
+  "eligibility": "Male Shram Yogis above 45 years and female Shram Yogis above 35 years working in the organized sector of Gujarat, whose Labour Welfare Fund has been regularly paid by their organization/unit for the last one year.",
+  "deadline": "No specific deadline mentioned.",
+  "apply_link": "https://sanman.gujarat.gov.in/",
+  "application_procedure": "Step 1: Visit the Sanman Portal: https://sanman.gujarat.gov.in/\nStep 2: On the home page, under ‘Citizen Login’, click ‘Please Register Here’.\nStep 3: Enter Aadhaar Card Number, select user type, and enter Labour Welfare Fund Account Number.\nStep 4: Click on ‘Fetch’ and verify details.\nStep 5: Enter user details and set a password.\nStep 6: Login with User ID and Password.\nStep 7: Select the scheme and read instructions.\nStep 8: Fill application form and upload relevant documents.\nStep 9: Agree with Rules & Regulations and submit. Confirmation email with application number will be sent.",
+  "categories": ["Health", "Labour Welfare", "Government Scheme"]
+}
+]
