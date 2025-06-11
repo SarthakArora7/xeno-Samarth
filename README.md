@@ -1,4 +1,4 @@
-e# Samarth AI  
+## Samarth AI  
 ### A Smart Chatbot for Government Scheme Assistance  
 
 <img src="https://img.shields.io/badge/Team-Xeno-blue" alt="Team Badge">  
