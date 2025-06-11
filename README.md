@@ -55,13 +55,6 @@ python app.py
 
 ```
 ### Frontend Setup Guide (Vite + React)
-
-## Prerequisites
-- Node.js ≥ 16.14.0
-- npm ≥ 8.5.0 or yarn ≥ 1.22.0
-- Backend server running (Flask API)
-
-## Installation
 ```bash
 # Clone repository (if not already done)
 git clone https://github.com/SarthakArora7/xeno-Samarth.git
