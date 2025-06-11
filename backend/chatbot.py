@@ -43,38 +43,56 @@ def get_chatbot_response(user_message):
 
     def search_similar_schemes(query_vector, top_k=3):
         D, I = index.search(query_vector.reshape(1, -1), top_k)
-        print("schemes: ")
-        # print([metadata_list[i] for i in I[0]])
         return [metadata_list[i] for i in I[0]]
 
     def build_prompt(user_query, retrieved_schemes):
-        schemes_context = ""
-        for idx, scheme in enumerate(retrieved_schemes):
-            schemes_context += (
+        schemes_context = []
+        for idx, scheme in enumerate(retrieved_schemes, start=1):
+            schemes_context.append((
+                f"Scheme {idx}:\n"
                 f"Title: {scheme['title']}\n"
                 f"Description: {scheme['description']}\n"
                 f"Eligibility: {scheme['eligibility']}\n"
                 f"Apply Link: {scheme.get('apply_link', 'Not available')}\n\n"
-            )
+            ))
 
-        # Strict prompt for structured output
         prompt = (
-            f"User Query: {user_query}\n\n"
-            f"Relevant Schemes:\n{schemes_context}\n"
-            f"Task: Summarize each scheme STRICTLY in this order:\n"
-            f"**Title**: [Name of the scheme]\n"
-            f"**Description**: [Brief summary]\n"
-            f"**Eligibility**: [Criteria]\n"
-            f"**Apply Here**: [Link]\n"
+        f"User Query: {user_query}\n\n"
+        f"The following are relevant government schemes. ONLY USE THESE SCHEMES to answer:\n\n"
+        f"{''.join(schemes_context)}"
+        f"Task: DO NOT use any external knowledge. DO NOT generate your own examples.\n"
+        f"ONLY summarize the schemes above. There are {len(retrieved_schemes)} schemes.\n"
+        f"For EACH scheme, use the following format:\n\n"
+        f"Title: [Name of the scheme]\n"
+        f"Description: [Brief summary of the description above. Do not invent anything.]\n"
+        f"Eligibility: [Criteria from above. Do not guess.]\n"
+        f"Apply Here: [Link]\n\n"
+        f"List all {len(retrieved_schemes)} schemes."
         )
+
         return prompt
 
     llm = ModelInference(
         model_id="ibm/granite-13b-instruct-v2",
-        params={"decoding_method": "greedy", "max_new_tokens": 900},
+        params={"decoding_method": "sample", "max_new_tokens": 900, "temperature": 0.3},
         credentials=Credentials(api_key=API_KEY, url=IBM_URL),
         project_id=PROJECT_ID
     )
+
+    def clean_llm_output(text):
+        # Remove lines that include task instructions
+        keywords = [
+            "Your task", 
+            "DO NOT use", 
+            "ONLY summarize", 
+            "Provide summaries", 
+            "List all", 
+            "Instructions"
+        ]
+        lines = text.splitlines()
+        cleaned = "\n".join(line for line in lines if all(k not in line for k in keywords))
+        return cleaned.strip()
+
 
     def generate_response(prompt):
         response = llm.generate(prompt)
@@ -85,5 +103,6 @@ def get_chatbot_response(user_message):
     similar_schemes = search_similar_schemes(query_vector)
     prompt = build_prompt(user_query, similar_schemes)
     answer = generate_response(prompt)
+    cleaned_answer = clean_llm_output(answer)
 
-    return answer
+    return cleaned_answer
