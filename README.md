@@ -78,6 +78,7 @@ python app.py
 # Clone repository (if not already done)
 git clone https://github.com/SarthakArora7/xeno-Samarth.git
 cd frontend
+cd chatty
 
 # Install dependencies
 npm install
