@@ -38,17 +38,19 @@ Samarth AI is an intelligent chatbot that helps users discover relevant governme
 ### Backend Setup
 ```bash
 # Clone repository
-git clone https://github.com/SarthakArora7/xeno-Samarth
-cd samarth-ai/backend
+git clone https://github.com/SarthakArora7/xeno-Samarth.git
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Configure environment
-cp .env.example .env
+IBM_API_KEY = "YOUR_API_KEY"
+PROJECT_ID = "YOUR_PROJECT_ID"
+IBM_URL = "YOUR_REGION_IBM_CLOUD_URL"
 # Edit .env with your credentials
 
 # Run Flask server
+cd backend.py
 python app.py
 
 ```
@@ -62,13 +64,13 @@ python app.py
 ## Installation
 ```bash
 # Clone repository (if not already done)
-git clone https://github.com/xeno/samarth-ai.git
-cd samarth-ai/frontend
+git clone https://github.com/SarthakArora7/xeno-Samarth.git
+cd frontend
 
 # Install dependencies
 npm install
-# or
-yarn install
+or
+npm i
 
 ```
 ### Video
