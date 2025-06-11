@@ -38,7 +38,7 @@ Samarth AI is an intelligent chatbot that helps users discover relevant governme
 ### Backend Setup
 ```bash
 # Clone repository
-git clone https://github.com/xeno/samarth-ai.git
+git clone https://github.com/SarthakArora7/xeno-Samarth
 cd samarth-ai/backend
 
 # Install dependencies
