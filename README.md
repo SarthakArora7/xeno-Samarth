@@ -33,6 +33,10 @@ While the dataset size is relatively small, it was carefully designed to cover a
 
 This is an ongoing project, and we are committed to refining the system to better serve its intended users.
 
+## Architecture
+
+![Architecture](Architecture.jpg)
+
 ## Technologies Used  
 | Component          | Technology Stack              |
 |--------------------|-------------------------------|
