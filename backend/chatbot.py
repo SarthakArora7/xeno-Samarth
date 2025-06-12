@@ -90,7 +90,7 @@ def get_chatbot_response(user_message):
             "Instructions"
         ]
         lines = text.splitlines()
-        cleaned = "\n".join(line for line in lines if all(k not in line for k in keywords))
+        cleaned = "\n\n".join(line for line in lines if all(k not in line for k in keywords))
         return cleaned.strip()
 
 
